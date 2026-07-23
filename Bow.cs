@@ -1,3 +1,6 @@
+// This code was written by Kwabs
+// Implementation of bow in game Magaharu
+
 using System.Collections.Generic;
 using System.Collections;
 using System.Linq;

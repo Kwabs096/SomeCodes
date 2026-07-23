@@ -1,3 +1,6 @@
+// This code was written by Kwabs
+// Implementation of parallax effect for background with multiple layers
+
 using UnityEngine;
 using System.Collections.Generic;
 // Delete backslashes just in case

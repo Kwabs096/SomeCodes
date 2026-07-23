@@ -1,3 +1,6 @@
+// This code was written by Kwabs
+// Implementation of dialogue system with gradual text reveal
+
 using System;
 using System.Collections;
 using System.Collections.Generic;

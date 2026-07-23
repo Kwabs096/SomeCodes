@@ -1,3 +1,6 @@
+// This code was written by Kwabs
+// Implementation of movement of camera in 2D + some extra functions
+
 using UnityEngine;
 using DG.Tweening;
 using System.Collections;
